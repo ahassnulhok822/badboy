@@ -1,2 +1,6 @@
 # badboy
-GAME-KNIGHT_X240
+clear
+pkg update
+pkg upgrade
+nano badboy.py
+
